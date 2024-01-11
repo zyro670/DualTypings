@@ -1,0 +1,62 @@
+[
+    {
+      "Type": "Fire",
+      "Weaknesses": ["Water", "Rock", "Ground"],
+      "SuperEffectiveAgainst": ["Grass", "Bug", "Ice"]
+    },
+    {
+      "Type": "Fire/Fighting",
+      "Weaknesses": ["Water", "Ground", "Flying", "Psychic"],
+      "SuperEffectiveAgainst": ["Grass", "Bug", "Ice", "Steel", "Normal", "Rock", "Ice", "Dark"]
+    },
+    {
+      "Type": "Fire/Flying",
+      "Weaknesses": ["Water", "Electric", "Rock"],
+      "SuperEffectiveAgainst": ["Grass", "Bug", "Ice"]
+    },
+    {
+      "Type": "Fire/Steel",
+      "Weaknesses": ["Water", "Ground", "Rock"],
+      "SuperEffectiveAgainst": ["Grass", "Bug", "Ice", "Fairy"]
+    },
+    {
+      "Type": "Fire/Rock",
+      "Weaknesses": ["Water", "Ground", "Rock"],
+      "SuperEffectiveAgainst": ["Bug", "Ice", "Flying", "Fire"]
+    },
+    {
+      "Type": "Fire/Water",
+      "Weaknesses": ["Water", "Ground", "Rock"],
+      "SuperEffectiveAgainst": ["Fire", "Ground", "Rock"]
+    },
+    {
+      "Type": "Fire/Grass",
+      "Weaknesses": ["Water", "Rock", "Ground", "Bug", "Ice"],
+      "SuperEffectiveAgainst": ["Fire", "Ice"]
+    },
+    {
+      "Type": "Fire/Electric",
+      "Weaknesses": ["Water", "Ground", "Rock"],
+      "SuperEffectiveAgainst": ["Bug", "Ice", "Flying"]
+    },
+    {
+      "Type": "Fire/Psychic",
+      "Weaknesses": ["Water", "Ground", "Rock", "Ghost", "Dark"],
+      "SuperEffectiveAgainst": ["Grass", "Bug", "Ice", "Fighting", "Poison"]
+    },
+    {
+      "Type": "Fire/Dragon",
+      "Weaknesses": ["Water", "Ground", "Rock", "Dragon"],
+      "SuperEffectiveAgainst": ["Bug", "Steel", "Grass"]
+    },
+    {
+      "Type": "Fire/Dark",
+      "Weaknesses": ["Water", "Rock", "Ground", "Fighting", "Bug"],
+      "SuperEffectiveAgainst": ["Grass", "Bug", "Ice", "Steel"]
+    },
+    {
+      "Type": "Fire/Fairy",
+      "Weaknesses": ["Water", "Rock", "Ground", "Steel"],
+      "SuperEffectiveAgainst": ["Grass", "Bug", "Ice", "Dark"]
+    }
+  ]
