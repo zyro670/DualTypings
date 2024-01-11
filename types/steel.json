@@ -1,4 +1,3 @@
-[
     {
       "Type": "Steel",
       "Weaknesses": ["Fire", "Fighting", "Ground"],
@@ -84,4 +83,3 @@
       "Weaknesses": ["Fire", "Ground"],
       "SuperEffectiveAgainst": ["Ice", "Rock", "Fairy", "Fighting", "Dragon", "Dark"]
     }
-  ]
